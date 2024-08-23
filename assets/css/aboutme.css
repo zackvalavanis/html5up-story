@@ -55,6 +55,7 @@ a {
     text-transform: uppercase;
     transition-property: color background;
     transition-duration: 200ms;
+    transition: opacity .5s ease-in;
 }
 footer a:hover { 
     background: rgb(39, 39, 251);
@@ -71,4 +72,5 @@ footer {
     background-size: cover;
     background-position: center;
     padding-bottom: 2em;
+    transition: opacity .5s ease-in;
 }
