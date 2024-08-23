@@ -1,0 +1,72 @@
+body { 
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(78, 95, 86);
+    margin:0;
+    background: linear-gradient(90deg, #f3f3f3, #e0e0e0, #f3f3f3);
+}
+header { 
+    text-align: center;
+    color:rgb(225, 209, 209);
+    font-size: 15px;
+    background-image: url("https://www.designyourway.net/blog/wp-content/uploads/2018/01/3d-Desktop-Backgrounds.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 9vw 2vmin
+}
+.name { 
+    font-size: 30px;
+    padding-top: 2em;
+}
+.sub { 
+    font-size: 13px;
+    padding-top: 1em;
+}
+h2 { 
+    text-align: center;
+    margin-top: 1em;
+    padding-top: 1em;
+    color:rgb(54, 52, 52)
+}
+main { 
+    line-height: 1.25;
+    padding: .5em 1em;
+    margin: 0 auto;
+    max-width: 70em;
+}
+section { 
+    line-height: 1.25;
+    padding: .5em;
+    margin: 0 auto;
+    max-width: 70em
+}
+a { 
+    color:rgb(225, 209, 209);
+    text-align: center;
+    border: 1px solid;
+    border-color: white;
+    border-radius: 1em;
+    padding: 1em 1em;
+    text-decoration: none;
+    font-size: .6em;
+    letter-spacing: .2em;
+    text-transform: uppercase;
+    transition-property: color background;
+    transition-duration: 200ms;
+}
+footer a:hover { 
+    background: rgb(39, 39, 251);
+    color: white;
+}
+h3 { 
+    padding-top: 2em;
+    text-align: center;
+    color:rgb(225, 209, 209);
+}
+footer { 
+    background-image: url("https://tasbihdigital.com/wp-content/uploads/2022/06/Cool-Blue-Wallpaper-For-Desktop.jpg");
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 2em;
+}
