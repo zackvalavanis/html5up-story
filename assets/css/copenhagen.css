@@ -1,17 +1,16 @@
-body { 
-    margin:0;
+body {
+    margin: 0;
 }
-header { 
+
+header {
     text-align: center;
-    color:rgb(225, 209, 209);
+    color: rgb(225, 209, 209);
     font-size: 15px;
-    background-image: url("https://www.designyourway.net/blog/wp-content/uploads/2018/01/3d-Desktop-Backgrounds.jpg");
+    background-image: url("https://media.cntraveler.com/photos/5c002c7745e16c465f875830/2:1/w_2560%2Cc_limit/GettyImages-1011529218.jpg");
     height: 500px;
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
     margin: 0;
     padding: 9vw 2vmin;
-    background-image: url("https://media.cntraveler.com/photos/5bfdb12a1b3466234d8136c5/16:9/w_2580,c_limit/GettyImages-1045586638.jpg");
-   
 }
