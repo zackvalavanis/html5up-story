@@ -1,16 +1,23 @@
-body {
-    margin: 0;
-}
-
 header {
     text-align: center;
     color: rgb(225, 209, 209);
     font-size: 15px;
-    background-image: url("https://media.cntraveler.com/photos/5c002c7745e16c465f875830/2:1/w_2560%2Cc_limit/GettyImages-1011529218.jpg");
+    background-image: url("https://www.lifeinnorway.net/wp-content/uploads/2023/08/Copenhagen-nyhavn-canal-with-danish-flag.jpg");
     height: 500px;
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
     margin: 0;
-    padding: 9vw 2vmin;
+    transition-property: color background;
+    transition-duration: 200ms;
+    transition: opacity .5s ease-in;
+}
+
+body {
+    font-family: 'Font Awesome 5 Free';
+    margin: 0;
+    transition-property: color background;
+    transition-duration: 200ms;
+    transition: opacity .5s ease-in;
+    opacity: 0;
 }
